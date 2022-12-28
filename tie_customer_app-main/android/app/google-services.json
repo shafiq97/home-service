@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196653178741",
+    "project_id": "take-it-easy-ee802",
+    "storage_bucket": "take-it-easy-ee802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196653178741:android:9e2c03bf552f33abe9bd3c",
+        "android_client_info": {
+          "package_name": "com.example.tie_customer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196653178741-uap33lkjt8t7egsjdkqv349di0cckhke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRk5y_5x5CcGsk_F6LPZvlWB8r6eDa76A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196653178741-uap33lkjt8t7egsjdkqv349di0cckhke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
