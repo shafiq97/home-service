@@ -42,10 +42,10 @@ class ProgressOrderItemCard extends StatelessWidget {
           category,
           style: Theme.of(context).textTheme.subtitle1,
         ),
-        trailing: OutlinedButton(
-          onPressed: () {},
-          child: Text('Chat'),
-        ),
+        // trailing: OutlinedButton(
+        //   onPressed: () {},
+        //   child: Text('Chat'),
+        // ),
       ),
     );
   }

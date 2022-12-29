@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
     ]);
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Take It Easy',
+      title: 'Service Booking',
       routes: <String, WidgetBuilder>{
         'home': (ctx) => CustomerHome(),
         'splash': (ctx) => Splash(),
